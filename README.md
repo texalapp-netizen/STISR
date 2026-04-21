@@ -29,18 +29,18 @@
 
 | 论文标题 | 年份 | 论文链接 |
 |---------|------|---------|
-| **DiffTSR**: Diffusion-based Blind Text Image Super-Resolution | 2024 | [CVPR Open Access](https://openaccess.thecvf.com/CVPR2024) |
-| **MARCOnet**: Learning Generative Structure Prior for Blind Text Image Super-Resolution | 2023 | [CVPR 2023](https://openaccess.thecvf.com/CVPR2023) |
-| **TATT**: A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution | 2022 | [CVPR 2022](https://openaccess.thecvf.com/CVPR2022) |
+| **DiffTSR**: Diffusion-based Blind Text Image Super-Resolution | 2024 |https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_Diffusion-based_Blind_Text_Image_Super-Resolution_CVPR_2024_paper.html |
+| **MARCOnet**: Learning Generative Structure Prior for Blind Text Image Super-Resolution | 2023 | [CVPR 2023](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Learning_Generative_Structure_Prior_for_Blind_Text_Image_Super-Resolution_CVPR_2023_paper.html) |
+| **TATT**: A Text Attention Network for Spatial Deformation Robust Scene Text Image Super-resolution | 2022 | [CVPR 2022](https://openaccess.thecvf.com/content/CVPR2022/html/Ma_A_Text_Attention_Network_for_Spatial_Deformation_Robust_Scene_Text_CVPR_2022_paper.html) |
 | **TBSRN**: Scene Text Telescope: Text-Focused Scene Image Super-Resolution | 2021 | [CVPR 2021](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Scene_Text_Telescope_Text-Focused_Scene_Image_Super-Resolution_CVPR_2021_paper.html) |
 
 ### ICCV/ECCV论文
 
 | 论文标题 | 年份 | 论文链接 |
 |---------|------|---------|
-| **StyleSRN**: Scene Text Image Super-Resolution with Text Style Embedding | 2025 | [ICCV 2025](https://openaccess.thecvf.com/ICCV2025) |
+| **StyleSRN**: Scene Text Image Super-Resolution with Text Style Embedding | 2025 | [ICCV 2025](https://openaccess.thecvf.com/content/ICCV2025/html/Yuan_StyleSRN_Scene_Text_Image_Super-Resolution_with_Text_Style_Embedding_ICCV_2025_paper.html) |
 | **TSRN**: Scene Text Image Super-Resolution in the Wild | 2020 | https://link.springer.com/chapter/10.1007/978-3-030-58607-2_38 |
-| **TextZoom Dataset** | 2020 | [ECCV 2020](https://www.ecva.net/papers/eccv_2020/) |
+| **TextZoom Dataset** | 2020 | [ECCV 2020](https://github.com/WenjiaWang0312/TextZoom) |
 
 ### AAAI/IJCAI论文
 
@@ -49,8 +49,8 @@
 | **Text Gestalt**: Stroke-Aware Scene Text Image Super-Resolution | AAAI | 2021 | [AAAI Library](https://ojs.aaai.org/index.php/AAAI/article/view/16309) |
 | **DPMN**: Improving Scene Text Image Super-resolution via Dual Prior Modulation Network | AAAI | 2023 | https://ojs.aaai.org/index.php/AAAI/article/view/25497 |
 | **GlyphSR**: A Simple Glyph-Aware Framework for Scene Text Image Super-Resolution | AAAI | 2024 | https://ojs.aaai.org/index.php/AAAI/article/view/32893 |
-| **C3-STISR**: Scene Text Image Super-resolution with Triple Clues | IJCAI | 2022 | [IJCAI 2022](https://www.ijcai.org/proceedings/2022) |
-| **LEMMA**: Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement | IJCAI | 2023 | [IJCAI 2023](https://www.ijcai.org/proceedings/2023) |
+| **C3-STISR**: Scene Text Image Super-resolution with Triple Clues | IJCAI | 2022 | [IJCAI 2022](https://arxiv.org/abs/2204.14044) |
+| **LEMMA**: Towards Robust Scene Text Image Super-resolution via Explicit Location Enhancement | IJCAI | 2023 | [IJCAI 2023](https://arxiv.org/abs/2307.09749) |
 
 ### WACV论文
 
@@ -63,7 +63,7 @@
 
 | 论文标题 | 年份 | 论文链接 |
 |---------|------|---------|
-| **PEAN**: A Diffusion-Based Prior-Enhanced Attention Network for Scene Text Image Super-Resolution | 2024 | [ACM Digital Library](https://dl.acm.org/) |
+| **PEAN**: A Diffusion-Based Prior-Enhanced Attention Network for Scene Text Image Super-Resolution | 2024 | https://dl.acm.org/doi/abs/10.1145/3664647.3680974|
 
 ### IEEE Transactions 论文
 
