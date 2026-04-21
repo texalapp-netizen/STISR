@@ -69,7 +69,7 @@
 
 | 论文标题 | 期刊 | 年份 | 论文链接 |
 |---------|------|------|---------|
-| **MARCONet++**: Enhanced Generative Structure Prior for Chinese Text Image Super-resolution | IEEE TPAMI | 2025 | [IEEE Xplore]([https://ieeexplore.ieee.org/](https://ieeexplore.ieee.org/abstract/document/11119080)) |
+| **MARCONet++**: Enhanced Generative Structure Prior for Chinese Text Image Super-resolution | IEEE TPAMI | 2025 | [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11119080)|
 | **TPGSR**: Text Prior Guided Scene Text Image Super-resolution | IEEE TIP | 2023 | https://ieeexplore.ieee.org/abstract/document/10042236 |
 | **SADM**: Better Skeleton, Better Readability: Skeleton-Aware Diffusion for STISR | IEEE TIP | 2024 | https://ieeexplore.ieee.org/abstract/document/10772209 |
 | **FDNet**: Domain-Complementary Prior With Fine-Grained Feedback for Scene Text Image Super-Resolution | IEEE TIP | 2025 | https://ieeexplore.ieee.org/abstract/document/11367370 |
