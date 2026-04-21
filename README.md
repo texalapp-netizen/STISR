@@ -57,7 +57,7 @@
 | 论文标题 | 年份 | 论文链接 |
 |---------|------|---------|
 | **TCDM**: Scene Text Image Super-resolution based on Text-conditional Diffusion Models | 2024 | [IEEE Xplore](https://ieeexplore.ieee.org/document/10483339) |
-| **NCAP**: Scene Text Image Super-resolution with Non-CAtegorical Prior | 2025 | [IEEE Xplore](https://ieeexplore.ieee.org/](https://ieeexplore.ieee.org/abstract/document/10943625) |
+| **NCAP**: Scene Text Image Super-resolution with Non-CAtegorical Prior | 2025 | [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10943625) |
 
 ### ACM MM论文
 
